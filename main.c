@@ -4,7 +4,7 @@
 #define CONTROL_SIZE 51
 #define SIZE 50
 
-/* This program is coded by Deniz Þimþek, 030120427 */
+/* This program is coded by Deniz Simsek, 030120427 */
 
 int main( void )
 {	
