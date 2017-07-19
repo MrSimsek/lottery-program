@@ -1,0 +1,22 @@
+
+The results of the week: 
+    1   14   44   19   42   33
+
+    3    4   44   35   19   18|    2 guessed in GAME # 1
+   20    7   24   45   46   43|    0 guessed in GAME # 2
+   18   27   36   24   23   33|    1 guessed in GAME # 3
+   41   35   14   46   44   38|    2 guessed in GAME # 4
+   27   46   24    4   29   49|    0 guessed in GAME # 5
+   19   27   26    9   13   21|    1 guessed in GAME # 6
+   16   43    9   44   41   15|    1 guessed in GAME # 7
+   32    8   43   39   31   20|    0 guessed in GAME # 8
+   12   34   49   15    3   38|    0 guessed in GAME # 9
+   18   28    5   29   46   23|    0 guessed in GAME # 10
+
+>> Total 0: 5
+>> Total 1: 3
+>> Total 2: 2
+>> Total 3: 0
+>> Total 4: 0
+>> Total 5: 0
+>> Total 6: 0
