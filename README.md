@@ -12,5 +12,5 @@ I wrote a Lottery Program in C Language for my Intro. to Computer Science class.
 
 - Clone the repository,
 - `cd` to the working directory,
-- If you are on Windows Command Prompt; just write `main` or if you are on Git Bash; write `./main.exe`,
+- If you are on Windows Command Prompt; just write `main` or if you are on Git Bash; write `./main.exe` ,
 - Then it Enter.
